@@ -52,7 +52,13 @@
 
 ###
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/profile-green-animate.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/profile-green-animate.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<github_user>/<repository>/output-3d-contrib/profile-green-animate.svg" />
+	</picture>
+</p>
 
 ###
 

@@ -52,9 +52,7 @@
 
 ###
 
-<img
-  src="https://dcbadge.limes.pink/api/shield/creech12"
-/>
+
 
 ###
 

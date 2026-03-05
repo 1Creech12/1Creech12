@@ -52,8 +52,14 @@
 
 ###
 
+<img
+  src="https://dcbadge.limes.pink/api/shield/creech12"
+/>
+
+###
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=1Creech12&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=1Creech12&theme=synthwave&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
